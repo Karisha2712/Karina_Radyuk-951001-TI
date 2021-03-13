@@ -1,0 +1,13 @@
+column/.idea
+fence/.idea
+lattice/.idea
+Viginer/.idea
+column/cmake-build-debug
+column/CMakeLists.txt
+fence/cmake-build-debug
+fence/CMakeLists.txt
+lattice/cmake-build-debug
+lattice/CMakeLists.txt
+Viginer/cmake-build-debug
+Viginer/CMakeLists.txt
+.idea
